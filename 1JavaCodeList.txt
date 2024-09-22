@@ -1,0 +1,68 @@
+1. Positive or Negative number
+2. Even or Odd number
+3. Sum of First N Natural numbers
+4. Sum of numbers in a given range:
+5. Greatest of two numbers
+6. Greatest of the Three numbers
+7. Leap year or not
+8. Prime number
+9. Prime number within a given range
+10. Sum of digits of a number
+11. Reverse of a number 
+12. Palindrome number
+13. Armstrong number
+14. Armstrong number in a given range
+15. Fibonacci Series upto nth term 
+16. Find the Nth Term of the Fibonacci Series 
+17. Factorial of a number 
+18. Power of a number
+19. Factor of a number
+20. Finding Prime Factors of a number 
+21. Strong number
+22. Perfect number
+23. Automorphic number
+24. Harshad number
+25. Friendly pair 
+26. Abundant number 
+27. Highest Common Factor(HCF)
+28. Lowest Common Multiple (LCM)
+29. Binary to Decimal to conversion
+30. Decimal to Binary conversion
+31. Can a number be expressed as a sum of two prime numbers 
+32. Calculate the area of a circle 
+33. Power of a Number
+34. Prime Number 
+35. Largest element in an array
+36. Smallest element in an array
+37. Find Second Smallest Element in an Array 
+38. Find Second Largest Element in an Array 
+39. Reversing a Number
+40. Sort first half in ascending order and second half in descending 
+41. Finding the frequency of elements in an array
+42. Sorting elements of an array by frequency 
+43. Counting Distinct Elements in an Array
+44. Counting Repeating Elements in an Array
+45. Removing Duplicate elements from an array 
+46. Counting the number of even and odd elements in an array
+47. Find maximum product sub-array in a given array
+48. Finding equilibrium index of an array 
+49. Check whether a character is a vowel or consonant 
+50. Check whether a character is a alphabet or not 
+51. Check if the given string is Palindrome or not
+52. Print the given string in reverse order 
+53. Remove spaces from a string :
+54. Count the sum of numbers in a string
+55. Remove all characters from string except alphabets 
+56. Capitalize the first and last character of each word of a string
+57. Calculate frequency of characters in a string
+58. Find non-repeating characters in a string 
+59. Check if two strings are Anagram or not
+60. Replace a sub-string in a string: 
+61. Replacing a particular word with another word in a string
+62. Count common sub-sequence in two strings // Not done yet
+63. Given an array which consists of only 0, 1 and 2. Sort the array without using any  algorithm
+64. Find the “Kth” max and min element of an array
+65. Move all the negative elements to one side of the array
+66. Find the Union and Intersection of the two sorted arrays. 
+67. Find Largest sum contiguous Subarray
+68. Kadane’s Algorithm 
